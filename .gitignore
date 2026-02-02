@@ -1,0 +1,10 @@
+**/.ipynb_checkpoints/
+.DS_Store
+old/**
+media/RAC8300168201.mp4
+zotero_key
+script/data/TM
+script/data/chunked_corpus.csv
+script/data/corpus.csv
+figs/topics_barchart_V48.html
+figs/topics_barchart_V78.html
